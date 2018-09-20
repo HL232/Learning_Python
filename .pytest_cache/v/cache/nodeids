@@ -1,0 +1,4 @@
+[
+  "test_do_stuff.py::test_sum_list",
+  "test_do_stuff.py::test_min_max"
+]

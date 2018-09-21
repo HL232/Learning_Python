@@ -1,7 +1,4 @@
 [
-  "test_do_stuff.py::test_sum_list",
-  "test_do_stuff.py::test_min_max",
-  "test_do_stuff.py::test_min_max_max",
   "test_first_real_python.py::test_add_three",
   "test_first_real_python.py::test_divide_three"
 ]

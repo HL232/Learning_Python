@@ -8,3 +8,4 @@ def test_divide_three():
     from first_real_python import divide_three
     s = divide_three(9)
     assert s == 3.0
+    

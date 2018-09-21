@@ -9,3 +9,7 @@ def test_divide_three():
     assert s == 3.0
 
  #just a random comment
+<<<<<<< HEAD
+=======
+ #adding a second comment
+>>>>>>> first_cont_integration

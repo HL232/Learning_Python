@@ -1,4 +1,7 @@
 [
   "test_first_real_python.py::test_add_three",
-  "test_first_real_python.py::test_divide_three"
+  "test_first_real_python.py::test_divide_three",
+  "test_shopping.py::test_is_in_shopping_list[apple-True]",
+  "test_shopping.py::test_is_in_shopping_list[pear-True]",
+  "test_shopping.py::test_is_in_shopping_list[pear -True]"
 ]
